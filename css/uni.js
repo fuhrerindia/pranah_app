@@ -53,7 +53,6 @@ const uni = {
     },
     stb: StatusBar.currentHeight,
     bind: (url) => {
-        // return "http://192.168.43.89/pranah/" + url;
         return `https://web.pranahapp.in/services/${url}`;
     },
     string: (obj) => {
