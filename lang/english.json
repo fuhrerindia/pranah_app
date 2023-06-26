@@ -1,0 +1,23 @@
+{
+    "translation": {
+        "mediaWithText" : "Media with Text",
+        "newPost": "New Post",
+        "textOnly": "Text Only",
+        "textHint": "What's in your mind?",
+        "post": "Post",
+        "mediaHint": "Inscription for Post",
+        "nothing": "Nothing Found",
+        "searchHint": "Search for Friend",
+        "editProfile": "Edit Profile",
+        "privateAcc": "Private Account",
+        "lang": "Language",
+        "rBug": "Report Bug",
+        "pPolicy": "Privacy Policy",
+        "credit": "Credits",
+        "sOut": "Sign Out",
+        "following": "Following",
+        "follow": "Follow",
+        "requested": "Requested",
+        "follower": "Follower"
+    }
+}

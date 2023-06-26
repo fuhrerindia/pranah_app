@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Pranah",
+    "slug": "pranah",
+    "version": "4",
+    "orientation": "portrait",
+    "icon": "./assets/main_icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.pranahofficial.pranah"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.info_themorningindia.pranah",
+      "versionCode": 7
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "backgroundColor": "#ffffff",
+      "display": "standalone",
+      "themeColor": "#fc3903",
+      "splash": {
+        "image": "./assets/splash.png",
+        "resizeMode": "contain"
+      }
+    },
+    "description": ""
+  }
+}
